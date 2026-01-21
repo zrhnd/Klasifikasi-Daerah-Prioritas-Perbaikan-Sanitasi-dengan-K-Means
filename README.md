@@ -1,5 +1,3 @@
-Berikut adalah **complete GitHub-style README.md documentation in English**, adapted from your project and ready to be uploaded directly to GitHub. Emoji are included as requested.
-
 ---
 
 # 📊 K-Means Clustering for Identifying Sanitation Improvement Priority Areas in Indonesia
@@ -182,11 +180,3 @@ In addition to Python, the project is also implemented using **MATLAB** with the
 The **K-Means Clustering** approach effectively groups Indonesian provinces based on sanitation and clean water access. This project demonstrates how **data-driven clustering** can support strategic planning and help prioritize sanitation development efforts to achieve SDG 6.
 
 ---
-
-If you want:
-
-* 🇮🇩🇬🇧 **Bilingual README**
-* 🏷️ **GitHub badges** (Python, License, Project Status)
-* 🧾 **Academic-style documentation version**
-
-just tell me and I will prepare it.
